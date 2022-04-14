@@ -1,0 +1,6 @@
+codigo,nombre,telefono
+1,mario,313
+2,diana,315
+3,felipe,314
+4,sandra,301
+5,jorge,300

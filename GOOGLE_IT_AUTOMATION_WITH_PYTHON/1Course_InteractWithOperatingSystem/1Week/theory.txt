@@ -1,0 +1,15 @@
+## IDE: INTEGRATED DEVELOPMENT ENVIRONMENT
+---> Es algo como VSCode, que reconoce el lenguage que usamos, completa el código, resalta (colorea) los diferentes segmentos del código
+---> por ejempo (def, return,...) se colorean ya que son especiales en python.
+
+
+## BENEFITS OF AUTOMATION
+---> Scalability: Que el sistema reconozca y realice más trabajos a medida que se agregan
+        ---> Por ejemplo la configuración de las carpetas, usuarios, accesos, etc... de un nuevo empleado de la compañía
+            se pueden realizar con un proceso automático con un script
+        ---> De esta manera, los humanos solo intervienen si el proceso falla por alguna razón
+
+## "TRAMPAS" DE LA AUTOMATIZACIÓN (¿Cómo podría fallar?)
+    ---> Si el tiempo para automatizar es menor que el tiempo para desarrollar la actividad por la cantidad de veces que se realice:
+      [time_to_automate < (time_to_perform * amount_of_times_done)
+            ==> AUTOMATIZAR

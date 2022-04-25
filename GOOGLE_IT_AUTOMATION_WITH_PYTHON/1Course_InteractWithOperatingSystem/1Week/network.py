@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-#https://realpython.com/python-requests/#:~:text=The%20first%20bit%20of%20information,looking%20for%20was%20not%20found.
+
 
 import requests
 import socket

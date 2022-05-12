@@ -2,10 +2,8 @@
 # https://docs.python.org/3/library/csv.html
 
 #####---------------------- Reading CSV 
-from asyncore import write
 import csv
 import os
-from textwrap import wrap
 
 os.chdir('2Week')
 
